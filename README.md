@@ -1,3 +1,3 @@
 # Hello-World
-#I'm a cat.
-#I have'nt had any name yet.
+I'm a cat.
+My name is Neko.
